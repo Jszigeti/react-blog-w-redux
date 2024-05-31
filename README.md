@@ -6,7 +6,7 @@ React-app blog using Redux as state manager
 
 ### `npm i`
 
-## Run json-server so the app has access to data
+## Run json-server (app access to data)
 
 ### `npm run server`
 
