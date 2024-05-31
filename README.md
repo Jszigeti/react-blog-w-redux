@@ -1,4 +1,4 @@
-# React blog using Redux
+# React blog
 
 React-app blog using Redux as state manager
 
